@@ -3711,6 +3711,10 @@
     {
       "timestamp": "2026-09-10T12:00:11Z",
       "rates_count": 161
+    },
+    {
+      "timestamp": "2026-09-10T13:00:11Z",
+      "rates_count": 161
     }
   ]
 }
